@@ -1,4 +1,4 @@
-package Neetcode.Patterns.ArraysAndHashing;
+package Compiled.Patterns.ArraysAndHashing;
 //LC : 238
 public class ProductOfArrayExceptSelf {
 

@@ -1,4 +1,4 @@
-package Neetcode.Patterns.ArraysAndHashing;
+package Compiled.Patterns.ArraysAndHashing;
 
 import java.util.Arrays;
 //LC : 242
