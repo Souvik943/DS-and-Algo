@@ -21,9 +21,4 @@ public class ReverseLinkedList {
 
         return head;
     }
-
-    class ListNode {
-        int val;
-        ListNode next;
-    }
 }
